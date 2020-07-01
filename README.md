@@ -32,4 +32,4 @@ more efficient to work with. If your function has a lot of parameters, you may w
 
 
 # Author: Andrés R. Bucheli.
-### Disclaimer: This example and the solution was created by Udacity.(Software Engineering Practices Pt 1).
+### Disclaimer: This example and the solution was created by Udacity (Software Engineering Practices Pt 1).  Adaptation as a repository: Andrés R. Bucheli.
