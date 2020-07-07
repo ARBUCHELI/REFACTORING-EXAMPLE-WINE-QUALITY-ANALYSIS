@@ -31,5 +31,5 @@ parameters. But in many cases, it's more effective to use fewer arguments. Remem
 more efficient to work with. If your function has a lot of parameters, you may want to rethink how you are splitting this up.
 
 
-# Author: Andrés R. Bucheli.
+## Author: Andrés R. Bucheli.
 ### Disclaimer: This example and the solution was created by Udacity (Software Engineering Practices Pt 1).  Adaptation as a repository: Andrés R. Bucheli.
